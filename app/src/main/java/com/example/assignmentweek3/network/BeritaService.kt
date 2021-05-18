@@ -6,6 +6,6 @@ import retrofit2.http.GET
 
 interface BeritaService {
 
-    @GET("everything?q=olahraga&from=2020-05-19&sortBy=publishedAt&apiKey=0949b8f230804199943c7526b50e7b95")
+    @GET("everything?q=olahraga&from=2021-04-18&sortBy=publishedAt&apiKey=79ecfdbf565a4bbb98bdf7c42750c1d2")
     fun getDataBerita():Call<ResponseServer>
 }

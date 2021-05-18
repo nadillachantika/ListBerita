@@ -4,7 +4,7 @@ import com.example.assignmentweek3.network.ConfigNetwork
 
 class NewsPresenter {
 
-    fun getNews(){
-        ConfigNetwork.getRetrofit().getDataBerita().enqueue(object  : )
-    }
+//    fun getNews(){
+//        ConfigNetwork.getRetrofit().getDataBerita().enqueue(object  : )
+//    }
 }
